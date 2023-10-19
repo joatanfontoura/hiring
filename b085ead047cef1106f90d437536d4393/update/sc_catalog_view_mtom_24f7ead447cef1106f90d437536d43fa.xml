@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Human Resources">b3d7aad447cef1106f90d437536d43c5</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-10-19 01:14:20</sys_created_on>
+        <sys_id>24f7ead447cef1106f90d437536d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources.catalog_human_resources</sys_name>
+        <sys_package display_value="Hiring" source="x_783096_hiring">b085ead047cef1106f90d437536d4393</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_human_resources">64f7225447cef1106f90d437536d430d</sys_portal_page>
+        <sys_scope display_value="Hiring">b085ead047cef1106f90d437536d4393</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_24f7ead447cef1106f90d437536d43fa</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-10-19 01:14:20</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9806265447cef1106f90d437536d434e" label="Candidate" max_length="40" name="x_783096_hiring_candidate" type="collection">
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element label="LinkedIn" max_length="1024" name="linkedin" type="url"/>
+        <element label="Remuneration" max_length="20" name="remuneration" type="price"/>
+    </element>
+</database>
