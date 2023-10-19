@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Candidate">5649a65847cef1106f90d437536d43f0</sc_cat_item>
+        <sc_catalog display_value="Human Resources">b3d7aad447cef1106f90d437536d43c5</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-10-19 01:25:40</sys_created_on>
+        <sys_id>d28a62d847cef1106f90d437536d4343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources.New Candidate</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Hiring">b085ead047cef1106f90d437536d4393</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d28a62d847cef1106f90d437536d4343</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-10-19 01:25:40</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
